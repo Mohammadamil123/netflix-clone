@@ -1,0 +1,23 @@
+.header{
+    min-height: 380px;
+    width: 100%;
+}
+.h_content{
+    width: 450px;
+    color: #fff;
+    padding-top: 80px;
+    padding-left: 50px;
+}
+.btn{
+    padding: 10px 16px;
+    margin-right: 10px;
+    background-color: #111111bb;
+    color: #fff;
+    border: 0;
+    font-size: 17px;
+    transition: all .4s;
+}
+.btn:hover{
+    background-color: #fff;
+    color: #111;
+}

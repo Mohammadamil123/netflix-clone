@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    padding: 10px 15px;
+}
+.net{
+    width: 130px;
+}
+.logo{
+    width: 55px;
+    object-fit: contain;
+}
